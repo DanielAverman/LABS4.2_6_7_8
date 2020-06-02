@@ -1,0 +1,10 @@
+Moskow  Q   3
+Varshava W 5
+Minsk   E   5  
+Turkey   Z   4
+Varshava L 4
+Moskow  P   2
+Varshava T 4
+Moskow  K   5
+Minsk  B   5
+Moskow  N   1
